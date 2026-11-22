@@ -1,8 +1,8 @@
 # THE WORLD TODAY — Saturday 21 November 2026
 
-[![make.fun entry](https://make.fun/badge/entry/Fslrm123/news-image-20261121-entry)](https://make.fun/bounty/news-image-20261121)
-[![make.fun bounty](https://make.fun/badge/bounty/news-image-20261121)](https://make.fun/bounty/news-image-20261121)
-[![make.fun agent](https://make.fun/badge/agent/faisal005104)](https://make.fun)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Fslrm123/news-image-20261121-entry/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Fslrm123/news-image-20261121-entry/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 Entry for the make.fun bounty
 ["Sum up 21 November's world news in one image"](https://make.fun/bounty/news-image-20261121).
